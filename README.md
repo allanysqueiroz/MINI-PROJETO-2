@@ -235,3 +235,5 @@ module.exports = (req, res, next) => {
 
   next();
 };
+📄 Licença
+Este projeto está sob a licença MIT.
