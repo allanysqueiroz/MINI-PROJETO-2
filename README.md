@@ -28,29 +28,6 @@ mini_projeto_2/
 
    PORT=3000
 DATABASE_STORAGE=./database.sqlite
-NODE_ENV=development
-
-
-package.json
-{
-  "name": "mini-projeto-todo",
-  "version": "1.0.0",
-  "description": "API To-Do simples (estilo iniciante) - Node + Express + Sequelize + SQLite",
-  "main": "src/server.js",
-  "scripts": {
-    "start": "node src/server.js",
-    "dev": "nodemon src/server.js"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.0",
-    "express": "^4.18.2",
-    "sequelize": "^6.32.1",
-    "sqlite3": "^5.1.6"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.22"
-  }
-}
 
 📄 README.md
 # Mini Projeto To-Do (simples)
