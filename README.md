@@ -26,8 +26,6 @@ mini_projeto_2/
    │  ├─ index.js
    │  └─ tarefa.js
 
-   PORT=3000
-DATABASE_STORAGE=./database.sqlite
 
 📄 README.md
 # Mini Projeto To-Do (simples)
